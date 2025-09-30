@@ -2,10 +2,6 @@
 
 I'm studying Statistics at Imperial and I really need to change my username. I enjoy looking at data related to the environment and medicine. I will be using this account for coursework, unless I start using a different account in which case I will link it here.
 
-I have to include a list so here are my pronouns, aka the generally used ones:
-- she
-- they
-- he
 
 This is a link back to the [github main page](https://github.com/)
 
